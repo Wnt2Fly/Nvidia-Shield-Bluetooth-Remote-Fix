@@ -1,4 +1,5 @@
 # Nvidia Shield Bluetooth Remote Fix
+NOTE: This is a fix for keeping bluetooth remotes paird for day to day use, it will not fix the loss of pairing after reboot.
 
 ## 🎯 Problem
 
