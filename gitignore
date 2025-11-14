@@ -1,0 +1,70 @@
+# Diagnostic Report Files
+Shield_Bluetooth_Report_*.txt
+overnight_log.txt
+overnight_bluetooth_log.txt
+bluetooth_log.txt
+*_log.txt
+shield_settings_backup.txt
+shield_global_backup.txt
+family_room_*.txt
+
+# Log files
+*.log
+
+# OS-specific files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+Desktop.ini
+
+# IDE and Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.project
+.settings/
+
+# Temporary files
+*.tmp
+*.temp
+
+# Backup files
+*.bak
+*.backup
+
+# Python (in case scripts are ported)
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+ENV/
+
+# Node (in case GUI is added)
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+package-lock.json
+
+# Build outputs (if compiled versions are created)
+dist/
+build/
+*.exe
+*.app
+*.dmg
+
+# Documentation drafts
+drafts/
+*.draft.md
+
+# Personal notes
+notes.txt
+TODO.txt
