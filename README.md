@@ -1,9 +1,9 @@
 # Nvidia Shield Bluetooth Remote Fix
-NOTE: This is a fix for keeping bluetooth remotes paird for day to day use, it will not fix the loss of pairing after reboot.
+NOTE: This is a fix to keep Bluetooth remotes paired for day-to-day use; it will not fix the loss of pairing after a reboot.
 
 ## 🎯 Problem
 
-Your TiVo remote (or other Bluetooth HID remotes) disconnects frequently from your Nvidia Shield TV, requiring constant re-pairing. The remote works fine initially but loses connection after the Shield sleeps or randomly during use.
+Your TiVo Stream 4k remote (or other Bluetooth HID remotes) disconnects frequently from your Nvidia Shield TV, requiring constant re-pairing. The remote works fine initially but loses connection after the Shield sleeps or randomly during use.
 
 ## 🔍 Root Cause
 
@@ -133,7 +133,7 @@ After rebooting, you **must** re-pair your remote with a fresh connection:
 2. **Find your remote** (may show as "TiVo Remote", "Bluetooth HID", or the device name)
 3. **Select it** and choose **Forget** or **Unpair**
 4. **Put remote in pairing mode:**
-   - TiVo Remote: Hold `Home` + `Back` buttons until LED flashes
+   - TiVo Remote: Hold `Power` + `TiVo` buttons until LED turns red, press `Volume Down` 3 times, LED light will flash red. Press Tivo to confirm. Press any button andthe  amber light will flash to signal it is in pairing mode
    - Other remotes: Consult your remote's manual
 5. **On Shield:** Select **Add accessory**
 6. **Select your remote** when it appears
