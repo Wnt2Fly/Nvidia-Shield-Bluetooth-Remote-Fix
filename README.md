@@ -1,3 +1,8 @@
+
+
+# SUPERCEDED BY Peanut2Shield https://github.com/Wnt2Fly/Peanut2Shield
+
+
 # Nvidia Shield Bluetooth Remote Fix
 NOTE: This is a fix to keep Bluetooth remotes paired for day-to-day use; it will not fix the loss of pairing after a reboot.
 <p align="center">
